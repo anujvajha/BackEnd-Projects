@@ -6,7 +6,9 @@ Discover and enjoy a variety of healthy and delicious smoothies from your accoun
 ## ✨ Features
 - 📝 User signup and login  
 - 🔐 JWT-based authentication  
-- 🥝 View smoothie recipes after login  
+- 🥝 View smoothie recipes after login
+- 💻 **Basic Frontend**: Simple interface to view and manage blogs  
+- ⚡ **Fast & Simple** backend API 
 
 
 ## 🛠️ Technologies
